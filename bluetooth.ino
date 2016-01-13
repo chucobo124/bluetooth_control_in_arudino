@@ -41,9 +41,6 @@ void signal_read(){
       delay(20);
   }
 }
-void blue_control(int val1, int val2){
-   
-  }
 
 void setup()
 {
